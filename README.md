@@ -1,5 +1,5 @@
 
-# Classification
+# Regression
 
-## [1. Class Imbalance Dataset](https://github.com/SandKrish/Classification_Prediction/blob/main/imbalance-insurance-data-analysis.ipynb)
-This notebook is used to analyze Insurance Imbalance Data.
+## [1. Logistic Regression](https://github.com/SandKrish/Regression/blob/main/logistic-regression-titanic-dataset.ipynb)
+This notebook is used to analyze titanic dataset using logistic regression.
